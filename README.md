@@ -12,11 +12,11 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=M.Sc.+Intelligent+Systems+%40+RPTU;Former+System+Engineer+%40+TCS;Building+Agentic+Workflows+%26+RAG;Specialized+in+Java%2FSpring+%26+PyTorch" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=M.Sc.+Computer+Science+%40+RPTU;Former+System+Engineer+%40+TCS;Building+Agentic+Workflows+%26+RAG;Specialized+in+Python+%26+ML" alt="Typing SVG" />
 </div>
 
 ### 🚀 About Me
-- 🔭 I’m currently pursuing my **M.Sc. in Intelligent Systems** at RPTU Kaiserslautern, Germany.
+- 🔭 I’m currently pursuing my **M.Sc. in Computer Science** at RPTU Kaiserslautern, Germany.
 - 🌱 I specialize in building end-to-end AI solutions—from scalable architectures to **LLM-powered agentic workflows**.
 - 💼 Previously worked as a **System Engineer** at Tata Consultancy Services, optimizing high-volume data processing and backend reliability.
 - 🎯 Looking for a Werkstudent role to build high-impact AI products!
@@ -82,7 +82,7 @@
         <!-- Invisible spacer to force column width -->
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="400" height="1" /><br>
         <b>🎓 Education</b><br><br>
-        <b>M.Sc. Intelligent Systems</b><br>
+        <b>M.Sc. Computer Science</b><br>
         <i>RPTU Kaiserslautern, Germany (2025-Present)</i><br><br>
         <b>B.Tech Computer Science & Engineering</b><br>
         <i>St. Thomas College, India (CGPA: 9.37/10)</i>
