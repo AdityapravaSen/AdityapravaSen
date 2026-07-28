@@ -51,14 +51,15 @@
 ### 📊 GitHub Stats
 
 <div align="center">
+ <div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=AdityapravaSen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_rank=true" alt="GitHub Stats" />
+</div>
   <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=AdityapravaSen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=AdityapravaSen&theme=tokyonight&hide_border=true&background=0D1117&v=1" alt="GitHub Streak" />
 </div>
-  <img src="https://streak-stats.demolab.com/?user=AdityapravaSen&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AdityapravaSen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
 </div>
 
 ---
